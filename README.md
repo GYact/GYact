@@ -1,26 +1,54 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
-</div>
+# 郷 由稀斗 (Yukito Togo) 👋
 
+筑波大学の学生エンジニアです。医療×テクノロジーの分野で、より良い医療アクセスの実現を目指しています。
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## 🔭 現在の活動
+- Ambii (医療系スタートアップ) での開発
+  - 大学生の空き時間を活用した地域医療支援
+  - 外国人患者のアクセス改善
+  - UI/UXの改善
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
-<br>
+## 💻 技術スタック
+### フロントエンド
+- Vue.js
+- React
+- TypeScript
 
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
-<br>
+### バックエンド
+- Firebase / Firestore
+- Ruby on Rails
 
+### その他の技術
+- Git / GitHub
+- Adobe Premiere Pro
+- Terraform
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="" />
-  <img alt="github stats" height="170px" src="" />
-</div>
+## 🌱 興味・関心分野
+- AI技術の教育応用（AI家庭教師プロジェクト経験）
+- 医療×テクノロジー
+- クラウドインフラストラクチャ
+- AI関連法規制
 
+## 🛠 最近の開発経験
+- Firestoreを用いたアポイントメント管理システム
+- リソーススケジューリング機能の実装
+- バリデーションルールの設計と実装
+
+## 📚 学習中
+- SEO最適化戦略
+- クラウドインフラストラクチャの自動化
+- 医療系アプリケーションの開発ベストプラクティス
+
+## 🏃‍♂️ 趣味・その他
+- フィットネス / 筋力トレーニング
+- ハイキング
+- 科学的なアプローチによる栄養管理
+
+## 📫 連絡先
+- GitHub: [@YourGitHubUsername]
+
+## 🌟 目標
+地域医療の課題解決と、テクノロジーを活用した医療アクセスの改善に貢献することを目指しています。
+
+---
+*"Technology for Better Healthcare Access"*
