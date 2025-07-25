@@ -1,7 +1,7 @@
 # 郷 由稀斗 (Yukito Go) 👋
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=あなたのユーザーネーム&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GYact&theme=radical" />
 </p>
 
 筑波大学情報学群情報メディア創成学類3年生の学生エンジニアです。
@@ -18,7 +18,7 @@ AI×エンタメで世界をより面白くする仕掛けをするのが夢で�
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザーネーム&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYact&theme=radical&hide_border=true" />
 </p>
 
 ---
