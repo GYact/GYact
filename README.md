@@ -17,12 +17,30 @@
 </p>
 
 ## 💻 技術スタック (Tech Stack)
+
+### 言語 (Languages)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,c,cs,cpp,go,rust,java,kotlin,swift,php,ruby,dart,html,css,md,bash)](https://skillicons.dev)
+
 ### フロントエンド (Frontend)
-[![My Skills](https://skillicons.dev/icons?i=vue,nextjs,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,angular,flutter,vite,tailwind,bootstrap,materialui,jquery,webpack,babel,vuetify,windicss)](https://skillicons.dev)
+
 ### バックエンド (Backend)
-[![My Skills](https://skillicons.dev/icons?i=firebase,nestjs,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,deno,nestjs,fastapi,django,flask,rails,laravel,hono)](https://skillicons.dev)
+
+### データベース (Database)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase,dynamodb)](https://skillicons.dev)
+
+### インフラ・DevOps (Infrastructure & DevOps)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,netlify,heroku,docker,kubernetes,terraform,git,github,githubactions,nginx,sentry)](https://skillicons.dev)
+
+### AI & データサイエンス (AI & Data Science)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,anaconda,matlab,r,jupyter,colab)](https://skillicons.dev)
+
+### モバイル (Mobile)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
+
 ### その他 (Others)
-[![My Skills](https://skillicons.dev/icons?i=git,github,pr,terraform,py,c,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,pr,ae,ps,blender,unity,unreal,godot,vscode,vim,neovim,pycharm,visualstudio,atom,emacs,notion,obsidian,linux,windows,ubuntu,raspberrypi,wordpress,graphql,postman)](https://skillicons.dev)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GYact&theme=nord_dark)
